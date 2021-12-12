@@ -11,6 +11,9 @@
 9. [How to use interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 10. [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 11. [Effective Go](https://go.dev/doc/effective_go)
+12. [Tutorial: Accessing a relational database](https://go.dev/doc/tutorial/database-access)
+13. [Golang Programming](https://www.golangprograms.com)
+
 
 _________________
 
