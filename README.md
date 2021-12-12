@@ -25,4 +25,5 @@ $ ./file
 
 # HowTo  
 1. [Managing dependencies](https://go.dev/doc/modules/managing-dependencies)
-2. [Handling Errors in Go](https://go.dev/blog/error-handling-and-go)  
+2. [Handling Errors in Go](https://go.dev/blog/error-handling-and-go)
+3. [How to use function from another file golang?](https://www.golangprograms.com/how-to-use-function-from-another-file-golang.html)
